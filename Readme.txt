@@ -1,4 +1,4 @@
-This software demonstrates what an analyst could use to extract a power consumption report based on data given for a specific time period. It can quickly provide answers for questions like:
+This software (developed on Eclipse) demonstrates what an analyst could use to extract a power consumption report based on data given for a specific time period. It can quickly provide answers for questions like:
 a) which time of day was the laundry room power consumption max?
 b) what time period of the year / month was the power consumption for heat max / min?
 c) does the power consumption of the kitchen change depending on the day of the week?
